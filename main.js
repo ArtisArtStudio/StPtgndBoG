@@ -373,7 +373,6 @@ let gendertext4= "It is a Demo!";
         if (rnd>8) {
             rnd=8;   
         }
-        rnd=8;
         for (i = 0; i < scratchers.length; i++) {
             i1 = i + 1;
             scratchers[i] = new Scratcher('scratcher' + i1);
